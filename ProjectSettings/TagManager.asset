@@ -8,6 +8,7 @@ TagManager:
   - Exit_Point
   - Arrow
   - Arrow_Shooter
+  - Wall
   layers:
   - Default
   - TransparentFX
